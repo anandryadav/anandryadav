@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on micro sevice
-- 📫 How to reach me -email
+- 📫 How to reach me -anandryadav@aol.com
 
 <!---
 anandryadav/anandryadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
