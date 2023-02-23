@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anandryadav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on micro sevice
+- 💞️ I’m looking to collaborate on micro sevice,Data Science and ML.
 - 📫 How to reach me -anandryadav@aol.com
 
 <!---
