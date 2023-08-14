@@ -54,7 +54,7 @@ Let's connect and code together! 😄
 
 ## GitHub Stats
 
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?anandryadav=anandryadav&show_icons=true&theme=dark)](https://github.com/anandryadav)
+[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandryadav&show_icons=true&theme=dark)](https://github.com/anandryadav)
 
 ## Connect with Me
 
