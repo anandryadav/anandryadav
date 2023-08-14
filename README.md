@@ -40,6 +40,26 @@ Feel free to reach out to me if you have any interesting project ideas or if you
 Let's connect and code together! 😄
 
 
+## Languages and Tools
+
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png)
+![MYSQL](https://img.icons8.com/color/48/000000/mysql.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+
+
+## GitHub Stats
+
+[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?anandryadav=anandryadav&show_icons=true&theme=dark)](https://github.com/anandryadav)
+
+## Connect with Me
+
+Let's embark on this coding adventure together! Connect with me on [LinkedIn](https://www.linkedin.com/in/anand-yadav-68b79134) and explore my visual stories on [Instagram](https://www.instagram.com/anandryadav/).
+
 <!---
 anandryadav/anandryadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
