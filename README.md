@@ -39,26 +39,35 @@ Feel free to reach out to me if you have any interesting project ideas or if you
 
 Let's connect and code together! 😄
 
-
 ## Languages and Tools
-
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png)
 ![MYSQL](https://img.icons8.com/color/48/000000/mysql.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+![Google Cloud Platform](https://img.icons8.com/color/48/000000/google-cloud.png)
+
 
 
 ## GitHub Stats
 
 [![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandryadav&show_icons=true&theme=dark)](https://github.com/anandryadav)
 
-## Connect with Me
 
-Let's embark on this coding adventure together! Connect with me on [LinkedIn](https://www.linkedin.com/in/anand-yadav-68b79134) and explore my visual stories on [Instagram](https://www.instagram.com/anandryadav/).
 
 <!---
 anandryadav/anandryadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
