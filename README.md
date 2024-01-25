@@ -1,4 +1,4 @@
-# Hi there, I'm Anand Yadav! 👋
+# Hi there, I'm Anand ! 👋
 
 - 👀 I’m interested in coding and technology.
 - 🌱 I’m currently learning W3 and exploring the world of programming.
