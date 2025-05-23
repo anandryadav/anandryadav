@@ -80,14 +80,13 @@ Let's connect and code together! 😄
 ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 ![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)
 ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png)
-![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 
 ## 🧰 Other Tools
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Apache Airflow](https://img.icons8.com/color/48/apache-airflow.png)
 ![Swagger](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-swagger-a-tool-used-for-documenting-apis-logo-color-tal-revivo.png)
-![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)
+
 
 
 
