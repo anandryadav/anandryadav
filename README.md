@@ -1,7 +1,7 @@
 # Hi there, I'm Anand ! 👋
 
 - 👀 I’m interested in coding and technology.
-- 🌱 I’m currently learning W3 and exploring the world of programming.
+- 🌱 I’m currently learning AI/ML and exploring the world of programming.
 - 💞️ I’m looking to collaborate on projects related to microservices, Data Science, and Machine Learning.
 - 📫 How to reach me: Feel free to drop me an email at anandryadav@aol.com.
 
